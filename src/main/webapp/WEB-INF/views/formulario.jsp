@@ -8,8 +8,9 @@
 </head>
 <body>
 <form action="adicionarContato" method="post">
-Nome:<input type="text" name="nome"/>
-email:<input type="text" name="email"/>
+Nome:<input type="text" name="nome"/><br/>
+email:<input type="text" name="email"/><br/>
+data:<input type="text" name="data"/><br/>
 <input type="submit" value="Adicionar">
 </form>
 
